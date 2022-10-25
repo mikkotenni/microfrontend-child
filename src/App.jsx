@@ -46,6 +46,7 @@ function App() {
       />
       <div className="css-from-test28">Element with .css-from-test28 class</div>
       <div className="css-from-test27">Element with .css-from-test27 class</div>
+      <a href="/">Home page</a>
     </Container>
   )
 }
